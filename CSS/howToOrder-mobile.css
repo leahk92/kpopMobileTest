@@ -33,14 +33,13 @@ button {
    font-size: 15px;
    width: 375px;
    margin: 0 auto;
-   border: 1px solid #ddd;
 }
 #wrap-order > div {
    width: 100%;
 }
 /* 1구역 */
 #wrap-order .ttl {
-   font-size: 17px;
+   font-size: 18.5px;
    font-weight: 400;
    background: #000;
    color: #fff;
@@ -97,6 +96,7 @@ button {
    margin-top: 70px;
 }
 .a01-2-info .info-lists {
+   font-size: 16px;
    margin-top: 20px;
    padding: 0 7px;
    line-height: 1.5;
@@ -167,15 +167,16 @@ button {
    align-items: center;
    gap: 8%;
    color: #111;
+
    font-weight: 600;
    background-color: #718dc3;
    padding: 10px 0 10px 15px;
    border-top-right-radius: 20px;
    border-bottom-right-radius: 20px;
-   /* border-radius: 10px; */
    margin-right: 10px;
 }
 .area-02 .type .item .step span {
+   font-weight: 700;
    font-size: 13px;
    color: #fff;
    opacity: 0.9;
@@ -185,7 +186,6 @@ button {
    display: flex;
    justify-content: center;
    align-items: center;
-   font-size: 13px;
    padding: 5px;
    border-bottom: 1px solid #ddd;
    margin-bottom: 10px;
@@ -208,7 +208,7 @@ button {
    margin-top: 30px;
 }
 .area-02 .type01 .why > p {
-   font-size: 15px;
+   font-size: 17px;
    font-weight: 650;
    color: #333;
    padding: 5px;
@@ -225,11 +225,10 @@ button {
 }
 .area-02 .type01 .why .explain .rightTxt {
    font-weight: 350;
-   font-size: 13px;
+   font-size: 15px;
    padding: 0 10px;
 }
 .area-02 .type01 .why .explain .rightTxt i {
-   font-size: 12px;
    margin-right: 10px;
    display: inline-block;
 }
@@ -272,7 +271,7 @@ button {
    width: 100%;
 }
 .area-03 .list .text {
-   font-size: 15px;
+   font-size: 17px;
    font-weight: 700;
    color: #232e41;
 }
@@ -282,7 +281,7 @@ button {
    align-items: baseline;
 }
 .area-03 .list .text span {
-   font-size: 13px;
+   font-size: 14.5px;
    font-weight: 400;
    padding: 1px 0;
    display: inline-block;
