@@ -72,7 +72,7 @@ button {
    font-size: 13px;
    display: inline-block;
    margin-top: 17px;
-   padding: 8px 22px;
+   padding: 10px 22px;
    border-radius: 30px;
    background-color: #232e41;
    border: 4px solid #fff;
@@ -108,7 +108,7 @@ button {
    margin-bottom: 12px;
 }
 .a01-2-info .info-lists .checklist:nth-child(4) {
-   margin-bottom: 3px;
+   margin-bottom: 5px;
 }
 .a01-2-info .checklist i {
    margin-right: 6px;
@@ -119,12 +119,13 @@ button {
 
 .a01-2-info .secondary {
    line-height: 1.3;
+   padding-right: 15px;
 }
 .a01-2-info .secondary > div {
    display: flex;
    justify-content: flex-start;
    align-items: baseline;
-   margin-bottom: 3px;
+   margin-bottom: 5px;
    padding-left: 21px;
 }
 .a01-2-info .secondary p {
@@ -140,7 +141,7 @@ button {
 .area-02 .typeName {
    color: #232e41;
    font-weight: 800;
-   font-size: 16.5px;
+   font-size: 17.5px;
    text-align: left;
    padding-left: 8px;
    margin-bottom: 15px;
@@ -172,12 +173,13 @@ button {
    align-items: center;
    gap: 8%;
    color: #111;
+   font-size: 16px;
    font-weight: 700;
    background-color: #718dc3;
    padding: 10px 0 10px 15px;
    border-top-right-radius: 20px;
    border-bottom-right-radius: 20px;
-   margin-right: 10px;
+   margin-right: 25px;
 }
 .area-02 .type .item .step span {
    font-size: 13px;
@@ -265,16 +267,11 @@ button {
    color: #52c94e;
    font-weight: 700;
 }
-.area-03 .list .icon {
-   /* display: flex;
-   align-items: center;
-   justify-content: flex-start; */
-}
 .area-03 .list .icon img {
    width: 100%;
 }
 .area-03 .list .text {
-   font-size: 17px;
+   font-size: 17.5px;
    font-weight: 700;
    color: #232e41;
 }
