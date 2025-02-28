@@ -151,7 +151,7 @@ button {
 }
 .area-02 .typeName .rec {
    font-weight: 500;
-   font-size: 10px;
+   font-size: 12px;
    border: 1.5px solid #e52020;
    color: #e52020;
    padding: 0.5px 5px;
@@ -176,7 +176,7 @@ button {
    font-size: 16px;
    font-weight: 700;
    background-color: #718dc3;
-   padding: 10px 0 10px 15px;
+   padding: 10px 0 10px 25px;
    border-top-right-radius: 20px;
    border-bottom-right-radius: 20px;
    margin-right: 25px;
@@ -191,7 +191,7 @@ button {
    display: flex;
    justify-content: center;
    align-items: center;
-   padding: 5px;
+   padding: 10px;
    border-bottom: 1px solid #ddd;
    margin-bottom: 10px;
 }
@@ -207,7 +207,7 @@ button {
 }
 /* 타입 1 */
 .area-02 .type01 {
-   margin: 25px 0 30px 0;
+   margin: 30px 0;
 }
 .area-02 .type01 .why {
    margin-top: 30px;
@@ -220,7 +220,7 @@ button {
    text-align: center;
 }
 .area-02 .type01 .why .explain {
-   padding: 8px 0;
+   padding: 10px;
 }
 .area-02 .type01 .why .explain > div:first-child {
    margin: 0 auto;
@@ -248,7 +248,7 @@ button {
 .area-03 .list {
    width: 100%;
    margin: 0 auto;
-   padding: 18px 7px 20px 10px;
+   padding: 17px 10px 18px 20px;
    border-bottom: 1px solid #ddd;
    /* 이전 */
    display: flex;
@@ -277,7 +277,7 @@ button {
 }
 .area-03 .list .text > div {
    display: flex;
-   justify-self: center;
+   justify-self: flex-start;
    align-items: baseline;
 }
 .area-03 .list .text span {
