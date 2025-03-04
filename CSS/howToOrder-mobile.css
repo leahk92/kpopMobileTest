@@ -48,6 +48,7 @@ button {
 }
 .a01-1-regi {
    margin: 10px;
+   border-radius: 10px;
    padding: 35px 10px 20px;
    background-color: #52c94e;
    text-align: center;
