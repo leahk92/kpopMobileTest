@@ -39,16 +39,17 @@ button {
 }
 /* 1구역 */
 #wrap-order .ttl {
-   font-size: 18.5px;
+   /* display: inline-block; */
+   font-size: 22px;
    font-weight: 400;
    background: #000;
    color: #fff;
    text-align: center;
-   /* padding: 7px 0; */
-   padding: 17px 5px;
+   padding: 17px 0;
+   margin: 0 10px;
 }
 .a01-1-regi {
-   padding: 40px 10px 15px;
+   padding: 35px 10px 20px;
    background-color: #52c94e;
    text-align: center;
    color: #fff;
@@ -58,18 +59,18 @@ button {
    font-weight: 900;
    opacity: 0.9;
 }
-.a01-1-regi > div {
+.a01-1-regi > div:nth-child(2) {
    display: inline-block;
    text-align: center;
-   padding: 15px 0;
-   margin-bottom: 7px;
+   padding: 10px 0;
+   margin-bottom: 10px;
 }
 .a01-1-regi .signUp {
    font-size: 16px;
    font-weight: 500;
 }
 .a01-1-regi .regiBtn {
-   font-size: 13px;
+   font-size: 14px;
    display: inline-block;
    margin-top: 17px;
    padding: 10px 22px;
@@ -136,12 +137,12 @@ button {
 }
 /* 2구역 */
 .area-02 {
-   margin: 70px 0;
+   margin: 70px auto;
 }
 .area-02 .typeName {
    color: #232e41;
    font-weight: 800;
-   font-size: 17.5px;
+   font-size: 20px;
    text-align: left;
    padding-left: 18px;
    margin-bottom: 15px;
@@ -182,9 +183,8 @@ button {
    margin-right: 20px;
 }
 .area-02 .type .item .step span {
-   font-size: 13px;
+   font-size: 15px;
    color: #fff;
-   opacity: 0.9;
 }
 .area-02 .type .item .box {
    width: 100%;
@@ -213,7 +213,7 @@ button {
    margin-top: 30px;
 }
 .area-02 .type01 .why > p {
-   font-size: 17px;
+   font-size: 19px;
    font-weight: 650;
    color: #333;
    padding: 5px;
@@ -271,7 +271,7 @@ button {
    width: 100%;
 }
 .area-03 .list .text {
-   font-size: 17.5px;
+   font-size: 18px;
    font-weight: 700;
    color: #232e41;
 }
