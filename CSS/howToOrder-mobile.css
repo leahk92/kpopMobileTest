@@ -39,7 +39,7 @@ button {
 }
 /* 1구역 */
 #wrap-order .ttl {
-   /* display: inline-block; */
+   border-radius: 10px;
    font-size: 22px;
    font-weight: 400;
    background: #000;
